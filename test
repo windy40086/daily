@@ -1,0 +1,23 @@
+/**
+ * 测试变量
+ * 
+ * 
+ * 
+ * 
+ */
+
+package p1_java入门阶段;
+public class P1_入门程序 {
+	int b;               //b=0  b=0.0   b=/u000 b=false
+	static int c;
+	public static void  main(String[] args) {
+		{
+			int d;
+			d=10;
+			System.out.println(d);
+		}
+		int a=1000;
+		System.out.println(a);
+		
+	}
+}
